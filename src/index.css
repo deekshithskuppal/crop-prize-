@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-emerald-50 via-slate-50 to-amber-50/40 text-slate-800 min-h-screen font-sans;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Print styles for Kisan Advisory Card */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-farmer-card, #printable-farmer-card * {
+    visibility: visible;
+  }
+  #printable-farmer-card {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 16px;
+    background: white;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* Pulse animation for live price tickers */
+@keyframes softPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.02); }
+}
+
+.animate-soft-pulse {
+  animation: softPulse 3s infinite ease-in-out;
+}
