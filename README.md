@@ -1,8 +1,6 @@
 # Smart Crop Yield and Price Predictor Using Machine Learning
 
-> **A Mini-Project submitted to Visvesvaraya Technological University (VTU), Belagavi**  
-> In partial fulfillment of the requirement for the award of Bachelor of Engineering in Computer Science & Engineering  
-> **Department of Computer Science & Engineering**  
+> **An Agricultural AI Mini-Project**  
 > **Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204**  
 > **Project Batch No:** A2 | **Date:** October 2026  
 
@@ -18,7 +16,7 @@
 
 **Project Guide:**  
 **Mr. Vedananda D E**, B.E, M.Tech., (Ph.D)  
-*Assistant Professor, Department of Computer Science & Engineering, JNNCE Shivamogga*
+*Assistant Professor, JNNCE Shivamogga*
 
 ---
 
@@ -86,7 +84,7 @@ Existing agricultural advisory systems (Agmarknet, eNAM, IMD, Kisan Suvidha) ope
    - Interactive Feature Importance horizontal bar chart.
    - End-to-end 5-step ML pipeline flow.
 
-5. **VTU Project Synopsis Modal:**
+5. **Project Synopsis Modal:**
    - Interactive popup displaying the full submitted synopsis document, college details, guide, problem statement, objectives, and expected outcomes.
 
 6. **Printable Kisan Advisory Card:**
@@ -121,4 +119,4 @@ npm run build
 ```
 
 ---
-*Developed with pride by JNNCE CSE Batch A2 for Visvesvaraya Technological University (VTU) Belagavi.*
+*Developed with pride by JNNCE Batch A2.*

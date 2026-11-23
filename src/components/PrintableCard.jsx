@@ -29,7 +29,7 @@ export default function PrintableCard({ result, lang, onClose }) {
               ಕಿಸಾನ್ ಬೆಳೆ ಇಳುವರಿ ಮತ್ತು ಮಾರುಕಟ್ಟೆ ಆದಾಯ ಸಲಹಾ ಪತ್ರ
             </div>
             <div className="text-[11px] text-slate-600 font-medium">
-              Smart Crop Yield and Price Predictor | VTU Mini-Project Batch: A2
+              Smart Crop Yield and Price Predictor | Project Batch: A2
             </div>
           </div>
         </div>
@@ -169,8 +169,8 @@ export default function PrintableCard({ result, lang, onClose }) {
       {/* Footer & Institutional Signatures */}
       <div className="pt-4 border-t border-slate-300 flex items-end justify-between text-xs text-slate-500">
         <div>
-          <div className="font-bold text-slate-800">Department of Computer Science & Engineering</div>
-          <div>Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204</div>
+          <div className="font-bold text-slate-800">Jawaharlal Nehru New College of Engineering (JNNCE)</div>
+          <div>Shivamogga - 577204, Karnataka</div>
           <div className="text-[10px] text-slate-400 mt-0.5">
             Project Batch A2: Chetan R Naik, Deekshith S Kuppal, Ichith M, Pavan Kumar J R | Guide: Mr. Vedananda D E
           </div>

@@ -14,16 +14,16 @@ export default function Navbar({
 
   return (
     <header className="bg-white border-b border-emerald-100 shadow-sm sticky top-0 z-40">
-      {/* Top Academic & VTU Affiliation Banner */}
+      {/* Top Academic & Institutional Banner */}
       <div className="bg-gradient-to-r from-emerald-900 via-emerald-800 to-teal-900 text-emerald-100 text-xs py-1.5 px-4">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="inline-flex items-center justify-center bg-emerald-500/30 text-white font-bold px-2 py-0.5 rounded text-[11px] border border-emerald-400/30">
-              VTU Belagavi
+              JNNCE Shivamogga
             </span>
-            <span className="hidden sm:inline text-emerald-200">|</span>
+            <span className="hidden sm:inline text-emerald-200">•</span>
             <span className="font-medium text-emerald-100">
-              {t.affiliation}
+              {lang === 'kn' ? 'ಸ್ಮಾರ್ಟ್ ಕೃಷಿ ಸಂಶೋಧನಾ ಯೋಜನೆ' : 'Smart Agriculture AI Research Project'}
             </span>
           </div>
 

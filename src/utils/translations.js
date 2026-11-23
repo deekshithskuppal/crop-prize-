@@ -4,8 +4,8 @@ export const TRANSLATIONS = {
   en: {
     appTitle: "Smart Crop Yield & Price Predictor",
     appSubtitle: "AI-Powered Dual Agricultural Forecasting & Profit Optimization System",
-    affiliation: "Dept. of Computer Science & Engineering | JNNCE Shivamogga | VTU Belagavi",
-    projectBatch: "VTU Mini-Project Batch: A2 (2026)",
+    affiliation: "JNNCE Shivamogga",
+    projectBatch: "Project Batch: A2 (2026)",
     
     // Navigation Tabs
     tabPredictor: "Dual Predictor",
@@ -114,8 +114,8 @@ export const TRANSLATIONS = {
     methodologyTitle: "System Pipeline & Workflow",
 
     // Synopsis Modal
-    synopsisTitle: "Mini-Project Synopsis (VTU / JNNCE)",
-    synopsisSubtitle: "Department of Computer Science & Engineering, JNNCE Shivamogga - 577204",
+    synopsisTitle: "Project Synopsis | JNNCE",
+    synopsisSubtitle: "JNNCE Shivamogga - 577204",
     studentsHeader: "Project Batch No: A2",
     guideHeader: "Under the Guidance of",
     problemIdentifiedTitle: "1. Problem Identified",
@@ -130,8 +130,8 @@ export const TRANSLATIONS = {
   kn: {
     appTitle: "ಸ್ಮಾರ್ಟ್ ಬೆಳೆ ಇಳುವರಿ ಮತ್ತು ಬೆಲೆ ಮುನ್ಸೂಚಕ",
     appSubtitle: "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ಆಧಾರಿತ ದ್ವಿಮುಖ ಕೃಷಿ ಮುನ್ಸೂಚನೆ ಮತ್ತು ಲಾಭ ಆಪ್ಟಿಮೈಸೇಶನ್ ವ್ಯವಸ್ಥೆ",
-    affiliation: "ಗಣಕ ವಿಜ್ಞಾನ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ವಿಭಾಗ | ಜೆಎನ್‌ಎನ್‌ಸಿಇ ಶಿವಮೊಗ್ಗ | ವಿಟಿಯು ಬೆಳಗಾವಿ",
-    projectBatch: "ವಿಟಿಯು ಮಿನಿ-ಪ್ರಾಜೆಕ್ಟ್ ಬ್ಯಾಚ್: ಎ2 (2026)",
+    affiliation: "ಜೆಎನ್‌ಎನ್‌ಸಿಇ ಶಿವಮೊಗ್ಗ",
+    projectBatch: "ಪ್ರಾಜೆಕ್ಟ್ ಬ್ಯಾಚ್: ಎ2 (2026)",
     
     // Navigation Tabs
     tabPredictor: "ದ್ವಿಮುಖ ಮುನ್ಸೂಚಕ",
@@ -240,8 +240,8 @@ export const TRANSLATIONS = {
     methodologyTitle: "ವ್ಯವಸ್ಥೆಯ ಹಂತಗಳು ಮತ್ತು ಕಾರ್ಯವಿಧಾನ",
 
     // Synopsis Modal
-    synopsisTitle: "ವಿಟಿಯು ಮಿನಿ-ಪ್ರಾಜೆಕ್ಟ್ ಸಾರಾಂಶ (JNNCE)",
-    synopsisSubtitle: "ಗಣಕ ವಿಜ್ಞಾನ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ವಿಭಾಗ, ಜೆಎನ್‌ಎನ್‌ಸಿಇ ಶಿವಮೊಗ್ಗ - 577204",
+    synopsisTitle: "ಪ್ರಾಜೆಕ್ಟ್ ಸಾರಾಂಶ (JNNCE)",
+    synopsisSubtitle: "ಜೆಎನ್‌ಎನ್‌ಸಿಇ ಶಿವಮೊಗ್ಗ - 577204",
     studentsHeader: "ಯೋಜನಾ ತಂಡ (ಬ್ಯಾಚ್ ಸಂಖ್ಯೆ: A2)",
     guideHeader: "ಮಾರ್ಗದರ್ಶಕರು",
     problemIdentifiedTitle: "೧. ಗುರುತಿಸಲಾದ ಸಮಸ್ಯೆ (Problem Identified)",

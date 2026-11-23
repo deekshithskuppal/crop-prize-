@@ -29,7 +29,7 @@ export default function SynopsisModal({ isOpen, onClose, lang }) {
           <div className="space-y-1">
             <div className="flex flex-wrap items-center gap-2">
               <span className="bg-amber-400 text-slate-950 font-extrabold text-[11px] px-2.5 py-0.5 rounded-full uppercase tracking-wider">
-                VTU Mini-Project Batch: A2
+                Project Batch: A2
               </span>
               <span className="text-emerald-200 text-xs">October 2026</span>
             </div>
@@ -37,7 +37,7 @@ export default function SynopsisModal({ isOpen, onClose, lang }) {
               Smart Crop Yield and Price Predictor Using Machine Learning
             </h2>
             <p className="text-emerald-100 text-xs sm:text-sm">
-              Visvesvaraya Technological University, Belagavi | Dept. of CSE, JNNCE Shivamogga - 577204
+              Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204
             </p>
           </div>
 
@@ -55,17 +55,14 @@ export default function SynopsisModal({ isOpen, onClose, lang }) {
           {/* Institutional Title & Batch Members Card */}
           <div className="bg-gradient-to-br from-emerald-50 via-slate-50 to-amber-50/50 border border-emerald-200 rounded-2xl p-5 sm:p-6 shadow-sm">
             <div className="text-center pb-4 border-b border-emerald-200/60 space-y-1">
-              <div className="text-xs font-bold text-emerald-800 uppercase tracking-widest">
-                Visvesvaraya Technological University, Belagavi, Karnataka
+              <div className="text-sm font-extrabold text-slate-900 pt-1">
+                Jawaharlal Nehru New College of Engineering (JNNCE)
               </div>
               <div className="text-xs font-semibold text-emerald-700 font-kannada">
-                ವಿಶ್ವೇಶ್ವರಯ್ಯ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಳಗಾವಿ, ಕರ್ನಾಟಕ
-              </div>
-              <div className="text-sm font-extrabold text-slate-900 pt-1">
-                Department of Computer Science & Engineering
+                ಜವಾಹರಲಾಲ್ ನೆಹರು ತಾಂತ್ರಿಕ ಕಾಲೇಜು, ಶಿವಮೊಗ್ಗ - 577204
               </div>
               <div className="text-xs text-slate-600 font-medium">
-                Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204
+                Shivamogga - 577204, Karnataka
               </div>
             </div>
 
@@ -111,7 +108,7 @@ export default function SynopsisModal({ isOpen, onClose, lang }) {
                     B.E, M.Tech., (Ph.D)
                   </div>
                   <div className="text-emerald-700 font-semibold pt-1">
-                    Assistant Professor, Dept. of CSE
+                    Assistant Professor
                   </div>
                   <div className="text-slate-500 text-[11px]">
                     Jawaharlal Nehru New College of Engineering, Shivamogga

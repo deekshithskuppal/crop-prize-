@@ -24,7 +24,7 @@ def create_presentation(output_path):
     CARD_BG = RGBColor(255, 255, 255)  # White
     BORDER_COLOR = RGBColor(226, 232, 240) # Slate 200
 
-    def add_header(slide, title_text, category_text="VTU MINI-PROJECT PRESENTATION (BATCH A2)"):
+    def add_header(slide, title_text, category_text="MINI-PROJECT PRESENTATION (BATCH A2)"):
         # Header banner
         header_box = slide.shapes.add_textbox(Inches(0.8), Inches(0.4), Inches(11.733), Inches(1.1))
         tf = header_box.text_frame
@@ -77,7 +77,7 @@ def create_presentation(output_path):
     p.space_before = Pt(8)
 
     p = tf1.add_paragraph()
-    p.text = "Submitted in partial fulfillment of Bachelor of Engineering in Computer Science & Engineering\nVisvesvaraya Technological University (VTU), Belagavi, Karnataka"
+    p.text = "An Agricultural AI Mini-Project Presentation\nJawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204"
     p.font.size = Pt(14)
     p.font.color.rgb = RGBColor(209, 250, 229)
     p.space_before = Pt(12)
@@ -122,7 +122,7 @@ def create_presentation(output_path):
     p.space_before = Pt(4)
 
     p = tf_guide.add_paragraph()
-    p.text = "B.E, M.Tech., (Ph.D)\nAssistant Professor, Dept. of CSE\nJawaharlal Nehru New College of Engineering (JNNCE)\nShivamogga - 577204"
+    p.text = "B.E, M.Tech., (Ph.D)\nAssistant Professor\nJawaharlal Nehru New College of Engineering (JNNCE)\nShivamogga - 577204"
     p.font.size = Pt(13)
     p.font.color.rgb = RGBColor(209, 250, 229)
     p.space_before = Pt(3)
@@ -632,7 +632,7 @@ def create_presentation(output_path):
     p.space_before = Pt(24)
 
     p = tf10.add_paragraph()
-    p.text = "Batch No: A2 | Dept. of CSE | JNNCE Shivamogga | VTU Belagavi"
+    p.text = "Batch No: A2 | Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga"
     p.font.size = Pt(13)
     p.font.color.rgb = RGBColor(255, 255, 255)
     p.alignment = PP_ALIGN.CENTER

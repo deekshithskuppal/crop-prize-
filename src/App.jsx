@@ -95,14 +95,14 @@ export default function App() {
                 Smart Crop Yield and Price Predictor Using Machine Learning
               </div>
               <div className="text-slate-500">
-                A Mini-Project submitted to Visvesvaraya Technological University (VTU), Belagavi
+                An Agricultural AI Mini-Project | JNNCE Shivamogga
               </div>
             </div>
           </div>
 
           <div className="text-center md:text-right space-y-1">
             <div className="font-semibold text-slate-700">
-              Department of Computer Science & Engineering | JNNCE Shivamogga - 577204
+              Jawaharlal Nehru New College of Engineering (JNNCE), Shivamogga - 577204
             </div>
             <div className="text-slate-500 text-[11px]">
               Batch A2: Chetan R Naik • Deekshith S Kuppal • Ichith M • Pavan Kumar J R | Guide: Mr. Vedananda D E
